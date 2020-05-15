@@ -7,4 +7,4 @@ function isEven(value) {
     }
 }
 
-The big O for this algorithm is 1.
+The big O for this algorithm is O(1).
